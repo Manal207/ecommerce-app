@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "firebase": "^9.13.0",
+    "react-icons-kit": "^2.0.0",
+    "react-router-dom": "^6.4.2",
+    "react-stripe-checkout": "^2.6.3"
+  }
+}
